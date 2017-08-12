@@ -1,5 +1,6 @@
 
     function buttonPress()
     {
-          document.getElementById("theImage").src="http://31.media.tumblr.com/fca646cd8fe87906e605ad7e8d039903/tumblr_mmoz4fWT6U1soh1p8o1_500.png";
+         $("#http://webneel.com/daily/sites/default/files/images/daily/03-2016/5-corporate-business-card-design.preview.jpg").fadeOut();
     }
+
