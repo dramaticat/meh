@@ -51,6 +51,7 @@ button {
     text-align:center;
     display: inline-block;
     margin: 0 auto;
+    left-margin: 200px
 }
 img {
     display: block;
