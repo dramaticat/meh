@@ -58,7 +58,11 @@ button {
     text-align:center;
     display: inline-block;
     margin: 0 auto;
-    left-margin: 2000px
+    left-margin: 2000px;
+}
+button:hover {
+    color: #18b284;
+    background-color: white;
 }
 img {
     display: block;
